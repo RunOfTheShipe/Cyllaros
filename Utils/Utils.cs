@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Utils
+namespace Cyllaros.Utils
 {
     public class Utils
     {
