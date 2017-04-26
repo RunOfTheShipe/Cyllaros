@@ -1,4 +1,6 @@
-﻿namespace Cyllaros.Testing.UtilsUT
+﻿using System;
+
+namespace Cyllaros.Testing.UtilsUT
 {
     /// <summary>
     /// Static methods to help testing
